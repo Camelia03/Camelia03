@@ -2,8 +2,9 @@
 
 **`Full Stack Developer Student`**
 
-I am a former tourism professional who is now embarking on a new journey in the world of Full Stack development. With several years of experience working in various roles within the tourism industry, I developed a passion for technology and its ability to enhance the travel experience for customers.
-Recently, I decided to pursue this passion further by enrolling in a Full Stack developer course. I am excited about the opportunity to learn new skills and apply my creativity and problem-solving abilities to develop innovative solutions that will make a positive impact in the tech industry.
+Junior Software Developer with a Full-stack Software Development Diploma from the Code Institute. Skilled in HTML, CSS, Javascript, and Python. With 4+ years in Customer Service, I bring collaborative teamwork, strong communication, and adept problem-solving.
+
+Eager to join a dynamic tech team, open to internships, and committed to continuous learning for skill enhancement and professional growth.
 
 ---
 
